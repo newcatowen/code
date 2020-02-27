@@ -1,0 +1,6 @@
+git add *
+   91  git commit -m 'aaaa'
+   92  git push
+   93  history a.cpp 
+   94  history 
+
